@@ -1,0 +1,38 @@
+{
+  "closeAfterOneClickInstall":"disabled",
+  "extradata":[],
+  "theme":"default",
+  "bg":0,
+  "quality":{
+    "bgBlur":true,
+    "id":"high",
+    "bgSnow":true,
+    "bg":true
+  },
+  "overlay":1,
+  "parallax":1,
+  "mapeditor":"loenn",
+  "ahorn":{
+    "mode":"local",
+    "vhdPath":"",
+    "rootPath":"",
+    "theme":"",
+    "vhdMountPath":""
+  },
+  "csd":false,
+  "updates":"stable",
+  "useOpenGL":"disabled",
+  "loennInstalledVersion":"",
+  "updateModsOnStartup":"none",
+  "loennRootPath":"/home/lorey/.config/Olympus/loenn",
+  "currentrun":4978,
+  "vsync":true,
+  "install":1,
+  "installs":[{
+      "name":"manual (#1)",
+      "path":"/home/lorey/Desktop/celeste-linux-1.4.0.0",
+      "type":"manual"
+    }],
+  "lastrun":4978,
+  "mirrorPreferences":"gb,jade,otobot,wegfan"
+}

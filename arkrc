@@ -1,0 +1,13 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Desktop/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+StatusBar=Disabled
+splitterSizes=1853,66
+
+[Viewer]
+StatusBar=Disabled

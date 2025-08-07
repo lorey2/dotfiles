@@ -1,0 +1,25 @@
+/home/lorey/Desktop/dist
+[sharp] New TCP connection: 127.0.0.1:34500
+[sharp] Executing setolympusversion
+[sharp] Executing getversionstring
+[sharp] Executing getrunningpath
+[sharp] Executing getmodidtonamemap
+[CmdGetIdToNameMap] Cache location set to: /home/lorey/.config/Olympus/cached-mod-ids-to-names.json
+[CmdGetIdToNameMap] Loading mod IDs from maddie480.ovh
+[sharp] Executing launch
+Starting Celeste process: /home/lorey/Desktop/celeste-linux-1.4.0.0/Celeste (without args)
+[sharp] Executing modlist
+[sharp] New CmdTask: (modlist)(thread#34>sharp.lua:424<scenes/modlist.lua:790)#1
+[CmdGetIdToNameMap] Loading mod IDs from /home/lorey/.config/Olympus/cached-mod-ids-to-names.json
+[sharp] Executing getversionstring
+[sharp] Executing launch
+Starting Celeste process: /home/lorey/Desktop/celeste-linux-1.4.0.0/Celeste (without args)
+[sharp] Failed reading from 127.0.0.1:34500: System.IO.IOException: Unable to read data from the transport connection: Connection reset by peer.
+ ---> System.Net.Sockets.SocketException (104): Connection reset by peer
+   at System.Net.Sockets.NetworkStream.Read(Byte[], Int32, Int32)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[], Int32, Int32)
+   at System.IO.StreamReader.ReadBuffer()
+   at Olympus.Program.ReadTerminatedString(TextReader, Char) in /home/vsts/work/1/s/sharp/Program.cs:line 353
+   at Olympus.Program.ReadLoop(Process, MessageContext, StreamReader, Boolean, Char ) in /home/vsts/work/1/s/sharp/Program.cs:line 258
+   at Olympus.Program.<>c__DisplayClass7_1.<Main>b__3() in /home/vsts/work/1/s/sharp/Program.cs:line 176

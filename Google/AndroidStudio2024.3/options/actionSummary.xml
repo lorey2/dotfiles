@@ -1,0 +1,118 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="2" l="1752691532615" />
+    </e>
+    <e n="Android.RunAndroidSdkManager">
+      <i c="1" l="1752696850429" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="5" l="1752695344013" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1751999201100" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="21" l="1752694205979" />
+    </e>
+    <e n="Dart.DartStyle">
+      <i c="7" l="1752693314090" />
+    </e>
+    <e n="Dart.NewDartFile">
+      <i c="2" l="1752695419895" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="221" l="1752696723935" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="46" l="1752694224619" />
+    </e>
+    <e n="EditorDown">
+      <i c="271" l="1752696722500" />
+    </e>
+    <e n="EditorEnter">
+      <i c="41" l="1752696711058" />
+    </e>
+    <e n="EditorEscape">
+      <i c="38" l="1752696725077" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1752691649780" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1752691769583" />
+    </e>
+    <e n="EditorUp">
+      <i c="60" l="1752696174187" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="1" l="1751999241215" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1752695761185" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="9" l="1752694049295" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="23" l="1752697375198" />
+    </e>
+    <e n="Run">
+      <i c="18" l="1752697385650" />
+    </e>
+    <e n="SaveAll">
+      <i c="14" l="1752695827338" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1752696846409" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="6" l="1752693316025" />
+    </e>
+    <e n="Stop">
+      <i c="5" l="1752698188762" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1752691900351" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1751999206155" />
+    </e>
+    <e n="android.device.power.button">
+      <i c="1" l="1752698197607" />
+    </e>
+    <e n="android.device.rotate.left">
+      <i c="1" l="1752692459249" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowFactory$MoveToWindowAction">
+      <i c="1" l="1751999424445" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="725" l="1752696728290" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
+      <i c="1" l="1752690652648" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="11" l="1752698193612" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1752698175898" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1752691902237" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="14" l="1752695827330" />
+    </e>
+    <e n="flutter.NewProject">
+      <i c="1" l="1752690660993" />
+    </e>
+    <e n="io.flutter.actions.DeviceSelectorAction$SelectDeviceAction">
+      <i c="1" l="1751999317876" />
+    </e>
+    <e n="io.flutter.actions.OpenEmulatorAction">
+      <i c="1" l="1752692403321" />
+    </e>
+  </component>
+</application>

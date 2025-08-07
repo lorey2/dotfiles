@@ -1,0 +1,18 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.cache/kioexec/krun/122279_0/209700913-e4761e92-f1ba-497d-8d4c-e41b38cb54a1.png
+File2[$e]=$HOME/.config/wall.png
+File3[$e]=$HOME/.config/rofi/gradient.png
+File4[$e]=$HOME/Desktop/Rotate&Defense/assets/images/game_over2.png
+Name1[$e]=209700913-e4761e92-f1ba-497d-8d4c-e41b38cb54a1.png
+Name2[$e]=wall.png
+Name3[$e]=gradient.png
+Name4[$e]=game_over2.png
+
+[SideBar]
+InformationSplitterSizes=211,244

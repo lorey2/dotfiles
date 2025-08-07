@@ -1,0 +1,186 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="timbrer-4e43d343">
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/timbrer/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="4" column="23" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="115" column="26" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="14" column="23" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="93" column="6" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="92" column="6" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="77" column="10" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="67" column="8" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="15" column="8" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="9" column="2" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="36" column="6" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="43" column="19" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="58" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="45" column="10" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="51" column="7" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="44" column="10" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="39" column="38" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="56" column="33" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="63" column="10" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="48" column="25" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="72" column="17" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="100" column="15" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="49" column="14" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="75" column="12" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="76" column="17" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="47" column="17" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="46" column="20" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="53" column="24" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="89" column="22" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="90" column="27" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="123" column="1" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="57" column="33" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="59" column="24" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="64" column="26" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="66" column="24" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="68" column="20" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="55" column="25" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="54" column="24" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="69" column="16" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="95" column="20" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="82" column="24" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="33" column="3" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="31" column="15" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/models.dart" protocol="file" />
+      <jump line="29" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="265" column="1" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="162" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="146" column="15" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="148" column="18" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="151" column="18" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="153" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="61" column="32" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="133" column="8" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="236" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/work_provider.dart" protocol="file" />
+      <jump line="237" column="3" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="292" column="2" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="51" column="1" filename="$USER_HOME$/StudioProjects/timbrer/lib/models.dart" protocol="file" />
+      <jump line="37" column="5" filename="$USER_HOME$/StudioProjects/timbrer/lib/models.dart" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="38" column="17" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="43" column="13" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" protocol="file" />
+      <jump line="15" column="26" filename="$USER_HOME$/StudioProjects/timbrer/lib/models.dart" protocol="file" />
+      <jump line="67" column="1" filename="$USER_HOME$/StudioProjects/timbrer/lib/models.dart" protocol="file" />
+      <jump line="283" column="76" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="30" column="0" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="27" column="1" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="6" column="28" filename="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" protocol="file" />
+      <jump line="65" column="3" filename="$USER_HOME$/StudioProjects/timbrer/lib/work_provider.dart" protocol="file" />
+      <jump line="81" column="3" filename="$USER_HOME$/StudioProjects/timbrer/lib/work_provider.dart" protocol="file" />
+    </project>
+    <project id="client-9657dc61">
+      <jump line="0" column="0" filename="$USER_HOME$/lagora/client/README.md" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/lagora/client/pubspec.yaml" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/StudioProjects/timbrer/lib/models.dart" timestamp="1752698205621">
+        <mark key="&quot;" line="67" column="1" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/timbrer/lib/work_provider.dart" timestamp="1752698205625">
+        <mark key="&quot;" line="96" column="1" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/timbrer/lib/main.dart" timestamp="1752698205610">
+        <mark key="&quot;" line="6" column="28" />
+        <mark key="[" line="281" column="2" />
+        <mark key="]" line="296" column="0" />
+        <mark key="^" line="296" column="0" />
+        <mark key="." line="296" column="0" />
+      </file>
+      <file name="$USER_HOME$/lagora/client/README.md" timestamp="1751999465828">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/timbrer/README.md" timestamp="1752698205594">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/StudioProjects/timbrer/pubspec.yaml" timestamp="1752698205617">
+        <mark key="&quot;" line="49" column="0" />
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="49" column="1" />
+        <mark key="^" line="49" column="2" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">ICMgQURERUQ=</text>
+      </register>
+      <register name="+" type="CHARACTER_WISE">
+        <text encoding="base64">ICMgQURERUQ=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">ICMgQURERUQ=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">Y2xhc3MgX015SG9tZVBhZ2VTdGF0ZSBleHRlbmRzIFN0YXRlPE15SG9tZVBhZ2U+IHsKICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHJldHVybiBTY2FmZm9sZCgKICAgICAgYXBwQmFyOiBBcHBCYXIoCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiBUaGVtZS5vZihjb250ZXh0KS5jb2xvclNjaGVtZS5pbnZlcnNlUHJpbWFyeSwKICAgICAgICB0aXRsZTogVGV4dCh3aWRnZXQudGl0bGUpLAogICAgICAgIGFjdGlvbnM6IFsKICAgICAgICAgIEljb25CdXR0b24oCiAgICAgICAgICAgIGljb246IGNvbnN0IEljb24oSWNvbnMuYWRkKSwKICAgICAgICAgICAgdG9vbHRpcDogJ0FkZCBhIG5ldyBwZXJzb24nLAogICAgICAgICAgICBvblByZXNzZWQ6ICgpIHt9LAogICAgICAgICAgKSwKICAgICAgICBdLAogICAgICApLAogICAgICBib2R5OiBSb3coCiAgICAgICAgY2hpbGRyZW46IFsKICAgICAgICAgIC8vIExlZnQgQ29sdW1uICgzMCUgd2lkdGgpCiAgICAgICAgICBTaXplZEJveCgKICAgICAgICAgICAgd2lkdGg6IE1lZGlhUXVlcnkub2YoY29udGV4dCkuc2l6ZS53aWR0aCAqIDAuMywKICAgICAgICAgICAgY2hpbGQ6IENvbG9yZWRCb3goCiAgICAgICAgICAgICAgY29sb3I6IENvbG9ycy5ncmV5LAogICAgICAgICAgICAgIGNoaWxkOiBDb2x1bW4oY2hpbGRyZW46IFsKICAgICAgICAgICAgICAgIGNvbnN0IFRleHQoJ3Rlc3QxJyksCiAgICAgICAgICAgICAgICAvLyBGSVg6IFdyYXAgdGhlIExpc3RWaWV3IHdpdGggRXhwYW5kZWQKICAgICAgICAgICAgICAgIEV4cGFuZGVkKAogICAgICAgICAgICAgICAgICBjaGlsZDogTGlzdFZpZXcuYnVpbGRlcigKICAgICAgICAgICAgICAgICAgICBpdGVtQ291bnQ6IDIwLAogICAgICAgICAgICAgICAgICAgIGl0ZW1CdWlsZGVyOiAoY29udGV4dCwgcG9zaXRpb24pIHsKICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBDYXJkKAogICAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogUGFkZGluZygKICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiBjb25zdCBFZGdlSW5zZXRzLmFsbCgyMC4wKSwKICAgICAgICAgICAgICAgICAgICAgICAgICBjaGlsZDogVGV4dCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uLnRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogVGV4dFN0eWxlKGZvbnRTaXplOiAyMi4wKSwKICAgICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgIF0pLAogICAgICAgICAgICApLAogICAgICAgICAgKSwKICAgICAgICAgIC8vIFJpZ2h0IENvbHVtbiAoNzAlIHdpZHRoKQogICAgICAgICAgU2l6ZWRCb3goCiAgICAgICAgICAgIHdpZHRoOiBNZWRpYVF1ZXJ5Lm9mKGNvbnRleHQpLnNpemUud2lkdGggKiAwLjcsCiAgICAgICAgICAgIGNoaWxkOiBDb2xvcmVkQm94KAogICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMubGlnaHRHcmVlbiwKICAgICAgICAgICAgICBjaGlsZDogQ29sdW1uKGNoaWxkcmVuOiBbCiAgICAgICAgICAgICAgICBjb25zdCBUZXh0KCd0ZXN0MicpLAogICAgICAgICAgICAgICAgLy8gRklYOiBXcmFwIHRoZSBMaXN0VmlldyB3aXRoIEV4cGFuZGVkCiAgICAgICAgICAgICAgICBFeHBhbmRlZCgKICAgICAgICAgICAgICAgICAgY2hpbGQ6IExpc3RWaWV3LmJ1aWxkZXIoCiAgICAgICAgICAgICAgICAgICAgaXRlbUNvdW50OiAyMCwKICAgICAgICAgICAgICAgICAgICBpdGVtQnVpbGRlcjogKGNvbnRleHQsIHBvc2l0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gQ2FyZCgKICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IFBhZGRpbmcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5hbGwoMjAuMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgY2hpbGQ6IFRleHQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3NpdGlvbi50b1N0cmluZygpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU6IFRleHRTdHlsZShmb250U2l6ZTogMjIuMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgXSksCiAgICAgICAgICAgICksCiAgICAgICAgICApLAogICAgICAgIF0sCiAgICAgICksCiAgICApOwogIH0KfQo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByb3ZpZGVyOiBeNi4xLjUKICAgIGludGw6IF4wLjIwLjIK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByb3ZpZGVyOiBeNi4xLjUKICAgIGludGw6IF4wLjIwLjIK</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByb3ZpZGVyOiBeNi4xLjUKICAgIGludGw6IF4wLjIwLjIK</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5hbGwoNSksCg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IENvbG9ycy5hbWJlcls2MDBdLAo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>
